@@ -1,6 +1,10 @@
-# Create a simple users application using useReducer Hook // Initial features // A list of of users // the ability to create users // the ability to delete users
+# Create a simple users application using useReducer Hook 
+* Initial features 
+* A list of of users 
+* the ability to create user 
+* the ability to delete users
 
-### Principles CRUD
+## Principles CRUD
 
 * APP.js => UserList.js => User.js
 
